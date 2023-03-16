@@ -20,7 +20,7 @@ Este repositório contém o código-fonte do Stefamon, um jogo de batalha desenv
   
   <img align="center" alt="Judeu-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Quarkus" height="30" width="40" src="https://raw.githubusercontent.com/quarkusio/quarkus/main/extensions/vertx-http/deployment/src/main/resources/dev-static/images/quarkus_icon_rgb_reverse.svg">
-  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
+  <img align="center" alt="Judeu-Mysql" height="30" width="40" src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
   <img align="center" alt="Judeu-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Judeu-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
  
